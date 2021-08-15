@@ -1,0 +1,38 @@
+{
+  "name": "bscwit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "script": {
+    "start": "node index.js"
+    },
+  "dependencies": {
+    "anime-wallpapers": "^1.0.1",
+    "animequote": "^1.1.1",
+    "disco-images": "^0.2.3",
+    "discord-blackjack": "^2.0.4",
+    "discord-prefix": "^2.0.0",
+    "discord.js": "^12.5.3",
+    "djs-games": "^1.6.5",
+    "dotenv": "^10.0.0",
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "kitsu.js": "^2.0.0",
+    "luxon": "^2.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "lib": "^4.3.3",
+    "mongoose": "^5.13.2",
+    "node-kitsu": "^1.1.1",
+    "node-fetch": "^2.6.1",
+    "pokecord": "^1.0.1",
+    "pokedex-promise-v2": "^3.3.2",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
